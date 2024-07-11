@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://i.ibb.co.com/C9TNvMF/bg3.jpg");
+    background-size: cover;
+    color: #ffff;
+    font-family: 'Times New Roman', Times, serif; 
+    
+}
+h1{
+   
+    text-align: center;
+}
+h3{
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+.alamat{
+    max-width: 40%;
+    line-height: 1.5;
+}
+h2{
+    text-align: center;
+}
+.deskripsi{
+    text-align: center;
+    line-height: 1.5;
+}
+.keahlian{
+    line-height: 1.5;
+}
+.profile-img {
+    position: absolute;
+    top: 13%; 
+    right: 5%; 
+    width: 80px; 
+    height: auto; 
+    border-radius: 0px; 
+    border: 8px solid #ffffff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+.teknologi{
+    text-align: right;
+    margin-left: 30px;
+}
+.keuangan{
+    text-align: right;
+    margin-left: 40px;
+}
+.administrasi{
+    text-align: right;
+    margin-left: 113px;
+}
